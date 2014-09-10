@@ -591,6 +591,9 @@ big {
 .ltpurple-bg {
   background-color: #8781bd; }
 
+.prettyblue-bg {
+  background-color: #53979e; }
+
 /* line 37, ../_sass/theme/_colors.scss */
 .ltblue-bg {
   background-color: #00aed1; }
@@ -601,7 +604,7 @@ big {
 
 /* line 45, ../_sass/theme/_colors.scss */
 .coral-bg {
-  background-color: #f47d64; }
+  background-color: #53849e; }
 
 /* line 49, ../_sass/theme/_colors.scss */
 .offwhite-bg {
@@ -610,6 +613,10 @@ big {
 /* line 53, ../_sass/theme/_colors.scss */
 .dark-bg {
   background-color: #3b4b54; }
+
+/* line 53, ../_sass/theme/_colors.scss */
+.teal-bg {
+  background-color: #00b299; }
 
 /* line 2, ../_sass/theme/_typography.scss */
 .IBMtitle {
@@ -669,9 +676,21 @@ ul li {
 .dkblue {
   color: #26343f; }
 
+.ltblue {
+  color: #00aed1; }
+
+.prettyblue {
+  color: #53979e; }
+
+.blue {
+  color: #155d70; }
+
 /* line 62, ../_sass/theme/_typography.scss */
 .dkpurple {
   color: #58607a; }
+
+.ltpurple {
+  color: #8781bd; }
 
 /* line 66, ../_sass/theme/_typography.scss */
 .navygrey {
@@ -787,10 +806,30 @@ ul li {
   text-align: center;
   display: block; }
 
+/* line 91, ../_sass/theme/_custom.scss */
+.button-dark a {
+  color: #5f5e5f;
+  font-weight: bold;
+  border: 1px solid #5f5e5f;
+  width: 8em !important;
+  padding: 1em;
+  text-align: center;
+  display: block; }
+
 /* line 101, ../_sass/theme/_custom.scss */
 .button a:hover {
   color: #5f5e5f;
   background-color: #ffffff;
+  border: none;
+  font-weight: bold;
+  width: 100%;
+  padding: 1em;
+  text-align: center; }
+
+/* line 101, ../_sass/theme/_custom.scss */
+.button-dark a:hover {
+  color: #ffffff;
+  background-color: #5f5e5f;
   border: none;
   font-weight: bold;
   width: 100%;
