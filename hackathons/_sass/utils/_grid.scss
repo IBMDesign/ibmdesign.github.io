@@ -39,6 +39,9 @@
 .Grid-cell--center {
   align-self: center;
 }
+.Grid--column{
+  flex-direction: column;
+}  
 
 @mixin grid-sizing($name: "") {
   $sep: "-";
