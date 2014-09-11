@@ -801,15 +801,11 @@ ul li {
 
 /* line 60, ../_sass/theme/_custom.scss */
 .checkin {
-<<<<<<< HEAD
   padding: 3em 25%; }
   @media (max-width: 767px) {
     /* line 106, ../_sass/theme/_custom.scss */
     .checkin {
       padding: 2em 10%;}}
-=======
-  padding: 2em 15%; }
->>>>>>> bd87c4d26f406b61b52db26c383cdeb4912487bc
 
 /* line 64, ../_sass/theme/_custom.scss */
 ul {
