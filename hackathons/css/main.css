@@ -702,7 +702,7 @@ ul li {
 .coral {
   color: #f47d64; }
 .coralbold {
-  color: #D5C8B6;
+  color: #f1ede7;
   font-weight: bold; }
 
 /* line 74, ../_sass/theme/_typography.scss */
@@ -710,6 +710,10 @@ ul li {
   color: #00b299; }
 .tealbold {
   color: #cafbf3;
+  font-weight: bold;}
+
+.bluebold {
+  color: #f1ede7;
   font-weight: bold;}
 
 /* line 1, ../_sass/theme/_custom.scss */
