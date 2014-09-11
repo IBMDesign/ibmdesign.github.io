@@ -621,11 +621,12 @@ big {
 
 /* line 2, ../_sass/theme/_typography.scss */
 .IBMtitle {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Roboto", sans-serif;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, sans-serif;
   font-size: .8em; }
 
 /* line 8, ../_sass/theme/_typography.scss */
 .Bluemixtitle {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: bold;
   font-size: .8em; }
 
