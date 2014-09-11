@@ -95,7 +95,7 @@ a {
 a:active,
 a:hover {
   outline: 0;
-  color: #f47d64;}
+  color: #C4B197;}
 
 /* Text-level semantics
    ========================================================================== */
@@ -405,11 +405,11 @@ th {
 
 /* line 8, ../_sass/design-lang/_typography.scss */
 .main-font, body {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Roboto", sans-serif; }
+  font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, sans-serif; }
 
 /* line 12, ../_sass/design-lang/_typography.scss */
 .mono-font, pre, code, tt {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Roboto", sans-serif; }
+  font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, sans-serif; }
 
 /* line 17, ../_sass/design-lang/_typography.scss */
 .heading, h1, h2, section > h1, h3, section > h2, section section h1, h4, section > h3, section section h2, section section section h1, h5, section > h4, section section h3, h6, section > h5, section section h4, section section section h3, section > h6, section section h5, section section section h4, section section h6, section section section h5 {
@@ -701,7 +701,7 @@ ul li {
 .coral {
   color: #f47d64; }
 .coralbold {
-  color: #ecb9ae;
+  color: #D5C8B6;
   font-weight: bold; }
 
 /* line 74, ../_sass/theme/_typography.scss */
