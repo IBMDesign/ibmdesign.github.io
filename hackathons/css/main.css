@@ -708,6 +708,9 @@ ul li {
 /* line 74, ../_sass/theme/_typography.scss */
 .teal {
   color: #00b299; }
+.tealbold {
+  color: #cafbf3;
+  font-weight: bold;}
 
 /* line 1, ../_sass/theme/_custom.scss */
 .logo {
@@ -822,11 +825,16 @@ ul li {
   margin: auto !important;
   padding-right:1.6em;}
 
+.tweet_us {
+  padding-top: 0em;
+  display: block;
+  padding-bottom: 3em;}
+
 /* line 77, ../_sass/theme/_custom.scss */
 .button {
   padding-top: 1.5em;
   display: block;
-  padding-bottom: 3em;}
+  padding-bottom: 2em;}
 
 /* line 82, ../_sass/theme/_custom.scss */
 .row3buttons {
